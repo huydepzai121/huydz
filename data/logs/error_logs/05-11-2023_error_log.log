@@ -1,0 +1,3 @@
+[Sun, 05 Nov 2023 04:48:11 -0800] [localhost] [::1] [Warning(2): Undefined array key "list_teacher"] [FILE: /modules/weather/admin/list.php] [LINE: 115]
+[Sun, 05 Nov 2023 05:16:49 -0800] [localhost] [::1] [Run-time notices(8192): Implicit conversion from float 946720.0000000001 to int loses precision] [FILE: /vendor/vinades/nukeviet/Files/Upload.php] [LINE: 163]
+[Sun, 05 Nov 2023 05:22:32 -0800] [localhost] [::1] [Warning(2): Undefined variable $stt] [FILE: /modules/weather/theme.php] [LINE: 32]
